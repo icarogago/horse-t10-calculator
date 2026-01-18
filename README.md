@@ -3,7 +3,6 @@
 Uma ferramenta desenvolvida para auxiliar jogadores de Black Desert Online no cálculo de materiais para o **Incenso que Chama o Sonho** (Mythical Censer), necessário para as tentativas de despertar dos cavalos T10 (Mythical Horses).
 
 ![Calculadora T10 Preview](./public/preview.png)
-*(Nota: Adicione uma captura de tela do projeto na pasta public com o nome preview.png se desejar exibir uma imagem aqui)*
 
 ## 🚀 Funcionalidades
 
