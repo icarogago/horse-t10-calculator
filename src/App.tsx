@@ -52,7 +52,7 @@ function App() {
 
   // 4. Controle de Atualização
   const [nextUpdateAt, setNextUpdateAt] = useState<number | null>(null);
-  const [now, setNow] = useState(Date.now()); // Para forçar re-render do timer
+  const [, setNow] = useState(Date.now()); // Para forçar re-render do timer
 
   // --- Efeitos de Persistência ---
   useEffect(() => {

@@ -1,5 +1,4 @@
 import { calculateMaterials } from './lib/calculator';
-import { ITEMS } from './data/items';
 
 // Simulando um teste simples
 console.log('--- TESTE DE LÓGICA: CALCULADORA T10 ---');

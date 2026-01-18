@@ -233,7 +233,7 @@ export function CalculatorTable({
         {/* Renderizar filhos recursivamente */}
         {hasChildren && isExpanded && (
           <div className="contents">
-            {node.ingredients!.map((child, index) => (
+            {node.ingredients!.map((child) => (
               renderRow(
                   child, 
                   depth + 1, 
